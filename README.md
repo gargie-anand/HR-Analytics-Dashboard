@@ -25,7 +25,7 @@ HR Aanlytics Dataset: https://drive.google.com/drive/folders/18mQalCEyZypeV8TJeP
 ## Data Preparation
 After importing the csv file `HR Analytics Dataset`, cleaned the data in the power query.
 
-Dataset contained `38 rows` and `1481 rows`.
+Dataset contains `38 columns` and `1481 rows`.
 - The headers were promoted.
 - The column `YearsWithCurrManager` was removed.
 - Duplicates were removed.
